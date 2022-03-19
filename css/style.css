@@ -6,7 +6,12 @@
 .navbar-dark{
     background-color: rgb(26, 182, 26);
 }
-
 .navbar-nav{
-    padding: 1%;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size:xx-large;
 }
