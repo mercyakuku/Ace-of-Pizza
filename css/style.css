@@ -9,9 +9,11 @@
 .navbar-nav{
     font-size: x-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
 }
 .navbar-brand{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
     font-size:xx-large;
+    letter-spacing: 8px;
 }
