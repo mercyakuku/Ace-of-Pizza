@@ -17,3 +17,7 @@
     font-size:xx-large;
     letter-spacing: 8px;
 }
+
+.container{
+    background-image:url(../images/background_pizza-ready-for-baking.jpg) ;
+}
