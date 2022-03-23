@@ -28,6 +28,9 @@
 #img1-h5, #img2-h5, #img3-h5{
     top: 0%;
     bottom: auto;
-    zoom: 650%;
+    zoom: 350%;
+}
 
+p{
+    zoom: 200%;
 }
