@@ -19,5 +19,15 @@
 }
 
 .container{
-    background-image:url(../images/background_pizza-ready-for-baking.jpg) ;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+#img1-h5, #img2-h5, #img3-h5{
+    top: 0%;
+    bottom: auto;
+    zoom: 650%;
+
 }
