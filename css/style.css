@@ -211,8 +211,8 @@ p{
     text-align: center;
     font-size: 40px;
   }
-  .btn {
-    color: #ffa500;
+  #submit {
+    background-color: #ffa500;
   }
   
   #contact h2{
