@@ -64,3 +64,26 @@ p{
     transform: translateY(-20px);
   }
 }
+.col-sm-7{
+  border-radius: 10%;
+  padding: 10px;
+}
+#about-us{
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+  
+  }
+  .about-pic {
+    background-color: #ffa500;
+  }
+  .content{
+    width: 100%;
+    background-color: #ffa500;
+    float: right;
+    text-align: justify;
+    overflow-x: hidden;
+    font-weight: 100;
+    font-size: xx-small;
+  }
