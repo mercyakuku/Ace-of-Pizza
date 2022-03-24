@@ -229,6 +229,22 @@ p{
     text-align: left;
   }
   
-  
+  #footer .section-a{
+    background-color: rgb(26, 182, 26);
+    padding: 1%;
+ }
+ 
+ .section-a i{
+   background-color: rgb(215, 218, 250);
+   color: rgb(5, 45, 80);
+   padding: 1%;
+   margin: 1%;
+   border-radius: 100px;
+ }
+ 
+ .section-b p{
+     text-transform: uppercase;
+     text-align: center;
+ }
   
     
