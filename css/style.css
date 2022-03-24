@@ -77,6 +77,8 @@ p{
   }
   .about-pic {
     background-color: #ffa500;
+    width: 100%;
+    padding: 20px 30px 95px;
   }
   .content{
     width: 100%;
@@ -86,4 +88,36 @@ p{
     overflow-x: hidden;
     font-weight: 100;
     font-size: xx-small;
+    padding: 20px 30px 40px;
+  }
+
+  #variety-h2{
+    padding-top: 30px;
+    align-items: center;
+
+  }
+  .d-flex{
+    display: flex !important;
+  }
+  .text h5{
+    font-size: 25px;
+    padding: 30px;
+  }
+  .button{
+    border-radius: 10px;
+  }
+  .card-title{
+    text-align: center;
+    color: green;
+    font-weight: 800;
+  }
+  .controls-top h2{
+    color: rgb(5, 172, 5);
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+  }
+  .col-md-4{
+    border-radius: 10%;
+    padding: 10px;
   }
