@@ -8,7 +8,7 @@ This is a web application for Ace of Pizza Inn which is a pizza selling venture,
 
 
 ## Live Page 
-https://github.com/mercyakuku/Ace-of-Pizza.git 
+https://mercyakuku.github.io/Ace-of-Pizza-Inn/
 
 
 ## Installation / Setup instruction
